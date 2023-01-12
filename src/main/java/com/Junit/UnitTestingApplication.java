@@ -10,7 +10,7 @@ public class UnitTestingApplication {
 		SpringApplication.run(UnitTestingApplication.class, args);
 		System.out.println("kunal");
 		System.out.println("kajal");
-		System.out.println("dusane");
+
 
 	}
 
